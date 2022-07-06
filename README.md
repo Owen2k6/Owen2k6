@@ -5,6 +5,7 @@ The place of quickly put together code that somehow works.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Owen2k6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owen2k6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Owen2k6&color=green)
 
